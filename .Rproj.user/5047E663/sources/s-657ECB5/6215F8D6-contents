@@ -1,0 +1,12 @@
+Package: genfun
+Type: Package
+Title: Usefull functions
+Version: 0.1.0
+Authors@R: person("Andreas", "Christoffersen", email = "andreas@math.aau.dk", role = c("aut", "cre"))
+Description: General functions that are used in my addition packages for spatstat.
+License: GPL (>= 2)
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
+Imports: Rcpp
+LinkingTo: Rcpp
