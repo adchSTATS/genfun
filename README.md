@@ -1,0 +1,2 @@
+# genfun
+Usefull functions
